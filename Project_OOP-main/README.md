@@ -1,11 +1,10 @@
 <br clear="both">
 
-<h1 align="center">Welcome to the Lùa Gà group@!</h1>
+<h1 align="center">Welcome!</h1>
 
 ###
 
-<p align="right">My name is Bao .<br>I am the leader of Lùa Gà.<br>My group consists of 3 members including 1 leader, 2 members.</p>
-
+<p align="right">My name is Binh .
 ###
 
 <div align="center">
